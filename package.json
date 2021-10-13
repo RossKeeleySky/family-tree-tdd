@@ -1,0 +1,23 @@
+{
+  "name": "family-tree-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossKeeleySky/family-tree-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RossKeeleySky/family-tree-tdd/issues"
+  },
+  "homepage": "https://github.com/RossKeeleySky/family-tree-tdd#readme",
+  "dependencies": {
+    "jest": "^27.2.5"
+  }
+}
